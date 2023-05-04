@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor Count](https://profile-counter.glitch.me/yasine-ben/count.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yasine-ben)](https://git.io/streak-stats)
