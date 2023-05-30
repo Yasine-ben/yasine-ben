@@ -5,7 +5,7 @@
 
 <h1 align='center'>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=675&height=35&lines=Heya!+My+name+is+Yasine%F0%9F%99%8B%F0%9F%8F%BD;Welcome+to+my+Github+Profile!;I'm+a+full+stack+web+developer+with+1%2B+years+experience;I+love+to+build+things+from+scratch;as+well+as+learning+new+frameworks%2Ftech+stacks;Let's+collaborate+and+build+something+amazing+together!;Feel+free+to+reach+out+to+me+anytime+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=675&height=35&lines=Heya!+My+name+is+Yasine%F0%9F%99%8B%F0%9F%8F%BD;Welcome+to+my+Github+Profile!;I'm+a+full+stack+web+developer+with+2%2B+years+experience;I+love+to+build+things+from+scratch;as+well+as+learning+new+frameworks%2Ftech+stacks;Let's+collaborate+and+build+something+amazing+together!;Feel+free+to+reach+out+to+me+anytime+)](https://git.io/typing-svg)
   
 </h1>
 
