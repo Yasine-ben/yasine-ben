@@ -69,7 +69,7 @@
 </h3> -->
 
 
-<h2 align='center'>Page Visitors: 
+<h2 align='center'>Page Views: 
   
 ![Visitor Count](https://profile-counter.glitch.me/yasine-ben/count.svg)
 
