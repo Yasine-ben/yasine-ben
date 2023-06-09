@@ -25,7 +25,7 @@
   </h2>
   
 
-<h2 align='center'>:computer:	Stacks I have used in previous projects :computer:	
+<h2 align='center'>:computer:	Programs/Stacks I have used in previous projects :computer:	
 
   <p> </p>
   
