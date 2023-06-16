@@ -16,12 +16,12 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasine-ben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasine-ben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yasine-ben&theme=tokyonight&card_width=465)](https://git.io/streak-stats) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasine-ben&show_icons=true&theme=tokyonight)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasine-ben&show_icons=true&theme=tokyonight)
+ -->
   </h2>
   
 
