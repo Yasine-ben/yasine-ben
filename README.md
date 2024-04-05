@@ -68,11 +68,4 @@
   
 </h3> -->
 
-
-<h2 align='center'>Page Views: 
-  
-![Visitor Count](https://profile-counter.glitch.me/yasine-ben/count.svg)
-
-</h2>
-
 <!-- asdasdasd
